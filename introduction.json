@@ -1,0 +1,131 @@
+{
+  "name": "Prof. (Dr.) Indrajeet Gupta",
+  "dob": "1987-07-01",
+  "current_employment": {
+    "designation": "Professor CSE",
+    "institution": "Rama University",
+    "location": "Kanpur, Uttar Pradesh",
+    "official_role": "Dean Faculty of Engineering",
+    "office_address": "Room No. Dean Office FET Building, Rama University"
+  },
+  "education": [
+    {
+      "degree": "B. Tech.",
+      "institute": "UPTU Lucknow",
+      "year": 2010
+    },
+    {
+      "degree": "M. Tech.",
+      "institute": "NIT Rourkela",
+      "year": 2012
+    },
+    {
+      "degree": "Ph. D.",
+      "institute": "IIT(ISM), Dhanbad",
+      "year": 2018
+    }
+  ],
+  "contact": {
+    "emails": {
+      "personal": "indrajeet7830@gmail.com",
+      "official": "drindrajeetgupta.fet@ramauniversity.ac.in"
+    },
+    "mobile_numbers": ["+91 7974313624", "+91 8004472588"],
+    "linkedin": "https://www.linkedin.com/in/dr-indrajeet-gupta-02b96664/"
+  },
+  "biography": {
+    "summary": "Dr. Indrajeet Gupta is a Professor in CSE at Rama University and Dean of Faculty of Engineering. He earned his Ph.D. from IIT(ISM) Dhanbad, M.Tech. from NIT Rourkela, and B.Tech. from UPTU Lucknow. He is an AWS Educator and Azure Educator certified by Microsoft MS Learn Program. He specializes in cloud resource optimization, AI, and problem-based learning.",
+    "expertise": [
+      "Cloud Resource Optimization",
+      "Artificial Intelligence",
+      "Problem-Based Learning",
+      "Process Scheduling",
+      "Cloud Resource Provisioning",
+      "Data Visualization"
+    ],
+    "achievements": {
+      "presentations": "20+ invited talks at national events, FDPs, and training sessions",
+      "publications": "12 SCI-indexed journal papers",
+      "reviewer_for": [
+        "Future Generation Computer Systems (Elsevier)",
+        "IEEE Transactions on Cloud Computing",
+        "IETE Journal of Research",
+        "IEEE Access",
+        "Journal of Grid Computing",
+        "The Journal of Supercomputing"
+      ]
+    },
+    "educator_roles": [
+      {
+        "title": "AWS Educator",
+        "since": 2019
+      },
+      {
+        "title": "AWS Educate Faculty Brand Ambassador",
+        "since": 2019
+      },
+      {
+        "title": "Microsoft Azure Educator (MS Learn)"
+      }
+    ]
+  },
+  "research_profiles": {
+    "google_scholar": "https://scholar.google.com/citations?user=fkPXLtUAAAAJ&hl=en",
+    "dblp": "https://dblp.org/pid/190/3934.html",
+    "scopus_orcid": "https://orcid.org/0000-0003-1262-899X"
+  },
+  "employment_history": [
+    {
+      "organization": "Rama University, Kanpur",
+      "post_held": "Professor",
+      "from": "2025-04-21",
+      "to": null
+    },
+    {
+      "organization": "SR University, Warangal",
+      "post_held": "Professor",
+      "from": "2024-01-02",
+      "to": "2025-04-17"
+    },
+    {
+      "organization": "Bennett University, Greater Noida",
+      "post_held": "Associate Professor",
+      "from": "2022-07-01",
+      "to": "2023-12-31"
+    },
+    {
+      "organization": "Bennett University, Greater Noida",
+      "post_held": "Assistant Professor",
+      "from": "2019-01-03",
+      "to": "2022-06-30"
+    },
+    {
+      "organization": "IIT (ISM), Dhanbad",
+      "post_held": "SRF with MHRD fellowship",
+      "from": "2016-02-03",
+      "to": "2018-11-28"
+    },
+    {
+      "organization": "IIT (ISM), Dhanbad",
+      "post_held": "JRF with MHRD fellowship",
+      "from": "2014-02-03",
+      "to": "2016-02-02"
+    },
+    {
+      "organization": "S R Group of Institutions, Jhansi",
+      "post_held": "Assistant Professor",
+      "from": "2013-07-08",
+      "to": "2014-01-27"
+    },
+    {
+      "organization": "Sri Ramswaroop Memorial College of Engineering and Management, Lucknow",
+      "post_held": "Assistant Professor",
+      "from": "2012-07-17",
+      "to": "2013-04-03"
+    }
+  ]
+  
+  
+
+}
+
